@@ -35,7 +35,7 @@
 ![Matlab](https://img.shields.io/badge/-Matlab%20-05122A?style=flat&logo=Matlab)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter%20-05122A?style=flat&logo=Flutter)&nbsp;
 ![CTF](https://img.shields.io/badge/-CTF%20-05122A?style=flat&logo=ctf)&nbsp;
-
+![CCNA](https://img.shields.io/badge/-CCNA%20-05122A?style=flat&logo=CISCO)&nbsp;
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
